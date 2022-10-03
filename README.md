@@ -30,12 +30,12 @@ This Project is an E_commerce website that sells clothes and accessories for wom
 3. Udemy PHP online course.
 4. MDN : https://developer.mozilla.org/en-US/
 
-## Wireframe
+## Wireframe &&  Mockup
 
 https://drive.google.com/file/d/1K_S7nmwr_wgIAdXnK4Ek3ipfM31W1r94/view?usp=sharing
-
-## Mockup
 https://drive.google.com/file/d/10CAOoQJwf7No2cjI9lceZqPgxYCU4GrK/view
+## our organization link
+https://github.com/ecommerce-project-php/ecommerce-php
 ## Trello
 
 https://trello.com/b/9ZduRwd7/ecommerce-website-php-mysql
