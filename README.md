@@ -35,7 +35,7 @@ This Project is an E_commerce website that sells clothes and accessories for wom
 https://drive.google.com/file/d/1K_S7nmwr_wgIAdXnK4Ek3ipfM31W1r94/view?usp=sharing
 
 ## Mockup
-
+https://drive.google.com/file/d/10CAOoQJwf7No2cjI9lceZqPgxYCU4GrK/view
 ## Trello
 
 https://trello.com/b/9ZduRwd7/ecommerce-website-php-mysql
